@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+header {background-color: rgb(78, 233, 233); padding: 10px;}
+header a{border-radius: 10px; color: white; background-color:black; padding: 3px; text-decoration:none;}
+h1 {color:  lawngreen; border-radius: 10px; border-color: orange; text-align: center;}
+footer p{border-radius: 10xp; background-color: rgb(78, 233, 233); }
+nav a
+ {margin: 60px;font-size: 20px;text-decoration: none;color: orange;border: black;}
+
+.nr,.nl,.nm,.nk {background-color: rgb(78, 233, 233); padding: 10px; border-radius: 10px; padding: 3px; text-decoration:none;}
+
+.ew,.we{color: blue; font-size: 50xp;}
+
+.vg,.vk{background-color: red; color: rgb(78, 233, 233);}
+
+.xc,.dz{color: blue;}
+
+.xv{border-radius: 10px; color: black; background-color:rgb(78, 233, 233); padding: 3px; text-decoration:none;}
+
+.xs{color: blue; font-size: 70xp;}
